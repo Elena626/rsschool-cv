@@ -1,0 +1,23 @@
+.name {
+    color: blue;
+    font-weight: bold;
+}
+
+.table {
+    color: brown;
+    bordercolor="#000000"
+}
+
+.avatar {
+    position: absolute;
+    top: 45px;
+    left: 20px;
+}
+
+.info {
+    margin: 30px;
+    position: relative;
+    top: 10px;
+    left: 110px;
+}
+
